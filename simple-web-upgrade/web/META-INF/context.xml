@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/WS02_NguyenLeHoangChinh_FA223W">
+<Resource name="Chinh" auth="Container" type="javax.sql.DataSource"
+          username="sa" password="12345"
+          driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+          url="jdbc:sqlserver://localhost:1433;databaseName=Chinh_FA223W;instanceName=MSSQLSERVER"/>
+</Context>
+    
